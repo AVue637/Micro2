@@ -1,3 +1,5 @@
+// This is the 3rd lab for Micros 2 using Arduino by Andrew Vue and Emmanuel Segura.
+
 // include the library code:
 #include <Wire.h>
 #include <DS3231.h>
