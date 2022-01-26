@@ -1,7 +1,7 @@
 /*
     Andrew Vue & Emmanuel Segura
     10/9/21
-    Microprocessors II - Arduino MEGA2600 
+    Microprocessors II Lab 1- Arduino MEGA2600 
       This lab is to design a controller for traffic lights that face one traffic direction. There are three
       colors of lights, represented with Red, Yellow, Green LEDs. The traffic lights operate in the
       following patterns:
